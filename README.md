@@ -1,6 +1,6 @@
 # Deep-Learning-HWK
 
-In this excercise, I utilized Tensorflow to perform the deep learning models for Bitcoin in both the historic pricing context an and the "Fear and Greed" approach. It was very intersting to build both models for the comparison and here were my results:
+In this excercise, I utilized Tensorflow to perform the deep learning models for Bitcoin in both the historic pricing context and the "Fear and Greed" approach. It was very intersting to build both models for the comparison and here were my results:
 
 Which model has a lower loss?
 The RNN model had a lower loss (0.0487) than the FNG model (.1911).
